@@ -1,0 +1,31 @@
+{
+  "compeitorAnalysisInstanceAnalysis" : {
+    "compeitorAnalysisInstanceAnalysisData" : "compeitorAnalysisInstanceAnalysisData",
+    "compeitorAnalysisInstanceAnalysisReport" : {},
+    "compeitorAnalysisInstanceAnalysisReportType" : "compeitorAnalysisInstanceAnalysisReportType"
+  },
+  "compeitorAnalysisRetrieveActionTaskReference" : "CARATR753718",
+  "compeitorAnalysisInstanceReportRecord" : {
+    "compeitorAnalysisInstanceReport" : {},
+    "compeitorAnalysisInstanceReportData" : "compeitorAnalysisInstanceReportData",
+    "compeitorAnalysisInstanceReportType" : "compeitorAnalysisInstanceReportType"
+  },
+  "compeitorAnalysisRetrieveActionTaskRecord" : {},
+  "competitorAnalysisInstanceRecord" : {
+    "competitorAnalysisGuidance" : "competitorAnalysisGuidance",
+    "competitorAnalysisSpecification" : "competitorAnalysisSpecification",
+    "competitorAnalysisAlgorithmReference" : "722054",
+    "competitorAnalysisUsageRecord" : {
+      "competitorAnalysisUsage" : "competitorAnalysisUsage",
+      "competitorAnalysisImpact" : "competitorAnalysisImpact"
+    },
+    "competitorAnalysisRequestRecord" : {
+      "employeeBusinessUnitReference" : "751975",
+      "competitorAnalysisRequest" : "competitorAnalysisRequest",
+      "competitorAnalysisRequestResult" : "competitorAnalysisRequestResult",
+      "competitorAnalysisRequestWorkProducts" : "competitorAnalysisRequestWorkProducts"
+    },
+    "competitorAnalysisType" : "competitorAnalysisType"
+  },
+  "compeitorAnalysisRetrieveActionResponse" : "compeitorAnalysisRetrieveActionResponse"
+}

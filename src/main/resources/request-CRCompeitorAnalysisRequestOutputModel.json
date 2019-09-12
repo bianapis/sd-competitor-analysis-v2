@@ -1,0 +1,12 @@
+{
+  "requestRecordReference" : "RRR745168",
+  "compeitorAnalysisRequestActionTaskRecord" : {},
+  "compeitorAnalysisRequestActionTaskReference" : "CARATR733642",
+  "competitorAnalysisInstanceRecord" : {
+    "competitorAnalysisRequestRecord" : {
+      "competitorAnalysisRequestResult" : "competitorAnalysisRequestResult",
+      "competitorAnalysisRequestWorkProducts" : "competitorAnalysisRequestWorkProducts"
+    }
+  },
+  "requestResponseRecord" : {}
+}

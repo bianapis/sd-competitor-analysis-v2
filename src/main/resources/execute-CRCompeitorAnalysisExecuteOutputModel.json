@@ -1,0 +1,12 @@
+{
+  "executeRecordReference" : "ERR717793",
+  "compeitorAnalysisExecuteActionTaskReference" : "CAEATR717828",
+  "executeResponseRecord" : {},
+  "compeitorAnalysisExecuteActionTaskRecord" : {},
+  "competitorAnalysisInstanceRecord" : {
+    "competitorAnalysisRequestRecord" : {
+      "competitorAnalysisRequestResult" : "competitorAnalysisRequestResult",
+      "competitorAnalysisRequestWorkProducts" : "competitorAnalysisRequestWorkProducts"
+    }
+  }
+}

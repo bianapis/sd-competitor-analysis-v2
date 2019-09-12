@@ -1,0 +1,20 @@
+{
+  "compeitorAnalysisEvaluateActionRecord" : {},
+  "compeitorAnalysisInstanceReference" : "CAIR769945",
+  "compeitorAnalysisEvaluateActionReference" : "CAEAR712572",
+  "compeitorAnalysisInstanceStatus" : "compeitorAnalysisInstanceStatus",
+  "competitorAnalysisInstanceRecord" : {
+    "competitorAnalysisGuidance" : "competitorAnalysisGuidance",
+    "competitorAnalysisSpecification" : "competitorAnalysisSpecification",
+    "competitorAnalysisAlgorithmReference" : "776278",
+    "competitorAnalysisUsageRecord" : {
+      "competitorAnalysisUsage" : "competitorAnalysisUsage",
+      "competitorAnalysisImpact" : "competitorAnalysisImpact"
+    },
+    "competitorAnalysisRequestRecord" : {
+      "competitorAnalysisRequestResult" : "competitorAnalysisRequestResult",
+      "competitorAnalysisRequestWorkProducts" : "competitorAnalysisRequestWorkProducts"
+    },
+    "competitorAnalysisType" : "competitorAnalysisType"
+  }
+}
